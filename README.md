@@ -1,7 +1,6 @@
-# bugTracker
-Project Description:
-This is a unique ticket tracker notification system that is specifically catered to those that use the Agile(Scrum) framework for developing simple and complex projects. A simple three column desing is used to give a clear view of what needs to be done, the daily goal, and how far along the project is as a whole. 
-A notification system that tracks defects in software as tickets, and allows for a development manager to observe the overall process of the project. Tracked items are listed as open, closed, or under development. 
+# SCRUM TICKET TRACKER
+PROJECT DESCRIPTION:
+This is a unique ticket tracker notification system that is specifically catered to those that use the Agile(Scrum) framework for developing simple and complex projects. A simple three column desing displays what needs to be done, the daily goal, and how far along the project is as a whole. Users can switch the middle pannel between two views: Daily Goals, and Issues. Daily goals, as its name suggests, has a checklist curated by the Scrum Master, and updates with team progress. The issue tracker window displays bugs, and issues that the team is facing that need to be solved. Issues can be marked with three different levels of urgency to notify others on the team of their importance.
 
 WHAT IS SCRUM: Scrum is founded on empirical process control theory, or empiricism. Empiricism asserts that
 knowledge comes from experience and making decisions based on what is known. Scrum
